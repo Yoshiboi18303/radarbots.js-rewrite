@@ -30,6 +30,8 @@ An unofficial package for interacting with the [Radar Bot Directory](https://rad
 
 ## Installation
 
+**DISCLAIMER:** This package is not on the registry due to a 402 _(Payment Required)_, please bear with me while I get this resolved.
+
 **NPM:**
 
 ```powershell
