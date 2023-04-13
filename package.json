@@ -1,8 +1,8 @@
 {
   "name": "@yoshiboi18303/radarbots.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The new package for interacting with the Radar Bot Directory API",
-  "main": "src/index.ts",
+  "main": "package/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
