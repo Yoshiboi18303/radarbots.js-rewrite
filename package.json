@@ -1,7 +1,6 @@
 {
   "name": "@yoshiboi18303/radarbots.js",
-  "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The new package for interacting with the Radar Bot Directory API",
   "main": "src/index.ts",
   "scripts": {},
@@ -24,7 +23,6 @@
   "homepage": "https://github.com/Yoshiboi18303/radarbots.js-rewrite#readme",
   "dependencies": {
     "discord.js": "^14.9.0",
-    "ms": "^2.1.3",
     "superagent": "^8.0.9"
   },
   "devDependencies": {
