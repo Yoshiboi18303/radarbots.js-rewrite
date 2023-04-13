@@ -1,0 +1,10 @@
+# Feel free to modify this file to what you like, just don't commit this file to the main repository.
+root = true
+
+[*]
+insert_final_newline = true
+
+[*.ts]
+indent_size = 4
+indent_style = space
+trim_trailing_whitespace = true
